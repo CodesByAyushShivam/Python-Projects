@@ -17,7 +17,7 @@ Inside every folder, you'll find all relevant files such as source code, assets,
 
 Projects range from beginner to intermediate level and cover a variety of domains like:
 
-- [Snake Water Gun Game](https://github.com/CodesByAyushShivam/Python-Projects/Snake Water Gun Game)
+- [Snake Water Gun Game](https://github.com/CodesByAyushShivam/Python-Projects/Snake%20Water%20Gun%20Game)
 
 ---
 
@@ -37,3 +37,12 @@ This repository is a way for me to:
    ```bash
    git clone https://github.com/CodesByAyushShivam/Python-Projects.git
 2. Navigate to any project folder
+   ```bash
+   cd Python-Projects/Project-Name
+3. Run the code
+   ```bash
+   python main.py
+> **Note:** Each folder may contain its own `README.md` with setup instructions and explanations.
+
+
+```bash
