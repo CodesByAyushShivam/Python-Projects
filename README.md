@@ -43,6 +43,3 @@ This repository is a way for me to:
    ```bash
    python main.py
 > **Note:** Each folder may contain its own `README.md` with setup instructions and explanations.
-
-
-```bash
