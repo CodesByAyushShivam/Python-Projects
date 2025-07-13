@@ -15,18 +15,10 @@ if (len(youStr) == 1 and (youStr.lower()=="s" or youStr.lower()=="w" or youStr.l
     print(f"You chose {reverseDict[you]} and Computer chose {reverseDict[computer]}")
     if (computer==you):
         print("Its a draw!")
-    elif (computer==1 and you==2):
+    elif (computer==1 and you==2) or (computer==2 and you==3) or (computer==3 and you==1):
         print(lost)
-    elif (computer==1 and you==3):
+    elif (computer==1 and you==3) or (computer==2 and you==1) or (computer==3 and you==2):
         print(won)
-    elif (computer==2 and you==1):
-        print(won)
-    elif (computer==2 and you==3):
-        print(lost)
-    elif (computer==3 and you==2):
-        print(won)
-    elif (computer==3 and you==1):
-        print(lost)
     else:
         print("Something went wrong")
 
