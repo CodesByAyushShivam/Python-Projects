@@ -18,6 +18,7 @@ Inside every folder, you'll find all relevant files such as source code, assets,
 Projects range from beginner to intermediate level and cover a variety of domains like:
 
 - [Snake Water Gun Game](https://github.com/CodesByAyushShivam/Python-Projects/tree/main/Snake%20Water%20Gun%20Game)
+- [Snake Water Gun Game with High Score](https://github.com/CodesByAyushShivam/Python-Projects/tree/main/Snake%20Water%20Gun%20Game%20with%20High%20Score)
 
 ---
 
