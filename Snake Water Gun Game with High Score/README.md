@@ -1,4 +1,4 @@
-# 🐍 Snake Water Gun Game
+# 🐍 Snake Water Gun Game with High Score
 
 A simple command-line version of the classic **Snake, Water, Gun** game built using Python.
 
@@ -57,7 +57,7 @@ This lets you challenge yourself or your friends to **beat the high score** over
 ## 📁 File Structure
 
 ```nginx
-Snake Water Gun Game/
+Snake Water Gun Game with High Score/
 ├── main.py         # Contains the game logic and high score feature
 ├── hs.txt          # Stores the high score
 └── README.md       # You're reading it
