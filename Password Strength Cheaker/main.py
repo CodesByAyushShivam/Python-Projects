@@ -23,4 +23,4 @@ elif strength == 2 or strength == 3:
 else:
     print("Your password is strong")
 
-print(f"Your Password Strength rating is {strength}/4")
+print(f"Your Password Strength rating is {{strength}/4}")
